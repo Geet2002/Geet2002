@@ -1,3 +1,7 @@
+<p align=”center”>
+<img width=”200" height=”200" alt="Make your README" src="https://github.com/user-attachments/assets/cc109afe-0ee7-430f-876e-130a9e93bb2a">
+
+</p>
 <h1 align="center">Hi 👋, I'm Geetartha Bordoloi</h1>
 <h3 align="center">Full-Stack Web Developer | Frontend Expertise in HTML, CSS, JavaScript, REACT</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lheG5xenltMjR1cHRlMmtlOWt1NmhramoxamJjcTM4eW9hM2pnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9kgjEsLG6LMbYC9dl/200.webp")>
